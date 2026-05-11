@@ -26,3 +26,20 @@ git clone https://github.com/Foreverweiwei2020/yys168cloud-.git /Applications/MA
 | :--- | :--- |
 | 新增 | 添加数据 |
 | 删除 | 移除数据 |
+
+
+- [x] 已完成的事
+- [ ] 待做的事
+
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>我的页面</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <p>这是一个段落</p>
+</body>
+</html>
