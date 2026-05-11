@@ -21,3 +21,8 @@
 git clone https://github.com/Foreverweiwei2020/yys168cloud-.git /Applications/MAMP/htdocs
 ```
 [点我去百度](https://www.baidu.com)
+
+| 功能 | 说明 |
+| :--- | :--- |
+| 新增 | 添加数据 |
+| 删除 | 移除数据 |
