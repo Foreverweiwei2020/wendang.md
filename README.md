@@ -62,5 +62,3 @@ h1 {
 }、
 ```
 ### 2. CSS 写法
-
-1、语言 写法 用途JavaScript javascript 网页脚本、前端 Python python 爬虫、数据分析、后端Java java 安卓、后端开发 C/C++ c 或 cpp 系统编程 SQL sql 数据库语句JSON json 数据格式 YAML yaml 配置文件Diff ```diff 显示代码改动对比
