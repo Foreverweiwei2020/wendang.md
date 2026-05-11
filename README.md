@@ -63,7 +63,13 @@ h1 {
 
 、、、css
 类型	写法
-Bash	```bash <br> 命令内容 <br> ```
-HTML	```html <br> 网页内容 <br> ```
-CSS	```css <br> 样式内容 <br> ```
-PHP	```php <br> 代码内容 <br> ```
+Bash	bash <br> 命令内容 <br> 
+HTML	`html <br> 网页内容 <br> `
+CSS	 css <br> 样式内容 <br>
+PHP	  php <br> 代码内容 <br>
+
+
+| 功能 | 说明 |
+| :--- | :--- |
+| Bash |bash <br> 命令内容 <br> |
+| 删除 | 移除数据 |
