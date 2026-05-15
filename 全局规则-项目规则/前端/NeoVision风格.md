@@ -1,5 +1,3 @@
-###### 项目规则
-、、、
 ---
 description: NeoVision 组件模式 —— 玻璃卡片、Bento Grid、导航、光晕、Footer
 globs: "**/*.{html,css,js,tsx,jsx,vue,svelte}"
